@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "BTS",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -896,7 +896,7 @@
             }
           },
           "title": "Think. Become..!",
-          "text": "We are startup team of highly qualified technology experts with decades of experience in the software industry driven with a passion to create products and services to every like in the industry with a purpose of bringing the most advanced technology into people's everyday life.",
+          "text": "Driven and motivated with a passion to create products and services with a purpose of bringing advances in technology into people's everyday life.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page2.html#form1-1l\" data-toolbar=\"-mbrBtnMove\">Contact Us</a>",
           "_tags": [
             "Theme"
